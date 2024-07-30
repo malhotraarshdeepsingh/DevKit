@@ -58,7 +58,4 @@
 - If you encounter issues, verify that Node.js and npm are installed and properly configured on your system.
 - For additional help, refer to the documentation for React.js, Next.js, Vite, or consult the relevant community forums.
 
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
